@@ -1,0 +1,34 @@
+----------------------------------------------
+Test de la suppression en position
+----------------------------------------------
+Liste l1: ( as de trefle ; dix de carreau ; 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+Suppression de la position 4
+-----------------------------
+Liste l1: ( as de trefle ; dix de carreau ; 9 de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+Suppression de la position 1
+-----------------------------
+Liste l1: ( dix de carreau ; 9 de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+Suppression de la position 4
+-----------------------------
+Liste l1: ( dix de carreau ; 9 de pique ; 7 de carreau ; valet de coeur ; )
+Suppression de la position -1
+-----------------------------
+Liste l1: ( 9 de pique ; 7 de carreau ; valet de coeur ; )
+Suppression de la position 10
+-----------------------------
+Liste l1: ( 9 de pique ; 7 de carreau ; valet de coeur ; )
+Suppression de la position 1
+-----------------------------
+Liste l1: ( 7 de carreau ; valet de coeur ; )
+Suppression de la position 1
+-----------------------------
+Liste l1: ( valet de coeur ; )
+Suppression de la position 1
+-----------------------------
+Liste l1: ( )
+Suppression de la position 1
+-----------------------------
+Liste l1: ( )
+----------------------------------------------
+Liberation des listes
+----------------------------------------------

@@ -1,0 +1,162 @@
+On teste XX fois aleatoirement
+Les cartes sont generees aleatoirement et peuvent etre donc tirees plusieurs fois
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(dame de carreau ;)
+On enfile :Voici la file :(dame de carreau ;3 de pique ;)
+La carte defilee est : dame de carreau ;
+Voici la file :(3 de pique ;)
+La carte defilee est : 3 de pique ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(dame de trefle ;)
+La carte defilee est : dame de trefle ;
+Voici la file :()
+On enfile :Voici la file :(2 de pique ;)
+On enfile :Voici la file :(2 de pique ;2 de trefle ;)
+La carte defilee est : 2 de pique ;
+Voici la file :(2 de trefle ;)
+La carte defilee est : 2 de trefle ;
+Voici la file :()
+On enfile :Voici la file :(valet de trefle ;)
+La carte defilee est : valet de trefle ;
+Voici la file :()
+On enfile :Voici la file :(2 de carreau ;)
+La carte defilee est : 2 de carreau ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(dix de carreau ;)
+La carte defilee est : dix de carreau ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(dix de trefle ;)
+La carte defilee est : dix de trefle ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(5 de trefle ;)
+La carte defilee est : 5 de trefle ;
+Voici la file :()
+On enfile :Voici la file :(2 de pique ;)
+La carte defilee est : 2 de pique ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(5 de trefle ;)
+On enfile :Voici la file :(5 de trefle ;4 de pique ;)
+On enfile :Voici la file :(5 de trefle ;4 de pique ;as de trefle ;)
+La carte defilee est : 5 de trefle ;
+Voici la file :(4 de pique ;as de trefle ;)
+La carte defilee est : 4 de pique ;
+Voici la file :(as de trefle ;)
+La carte defilee est : as de trefle ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(9 de trefle ;)
+La carte defilee est : 9 de trefle ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(5 de carreau ;)
+On enfile :Voici la file :(5 de carreau ;3 de pique ;)
+On enfile :Voici la file :(5 de carreau ;3 de pique ;7 de trefle ;)
+La carte defilee est : 5 de carreau ;
+Voici la file :(3 de pique ;7 de trefle ;)
+On enfile :Voici la file :(3 de pique ;7 de trefle ;2 de carreau ;)
+La carte defilee est : 3 de pique ;
+Voici la file :(7 de trefle ;2 de carreau ;)
+La carte defilee est : 7 de trefle ;
+Voici la file :(2 de carreau ;)
+La carte defilee est : 2 de carreau ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(valet de pique ;)
+On enfile :Voici la file :(valet de pique ;7 de trefle ;)
+On enfile :Voici la file :(valet de pique ;7 de trefle ;as de carreau ;)
+La carte defilee est : valet de pique ;
+Voici la file :(7 de trefle ;as de carreau ;)
+La carte defilee est : 7 de trefle ;
+Voici la file :(as de carreau ;)
+On enfile :Voici la file :(as de carreau ;roi de carreau ;)
+On enfile :Voici la file :(as de carreau ;roi de carreau ;5 de pique ;)
+On enfile :Voici la file :(as de carreau ;roi de carreau ;5 de pique ;8 de carreau ;)
+La carte defilee est : as de carreau ;
+Voici la file :(roi de carreau ;5 de pique ;8 de carreau ;)
+On enfile :Voici la file :(roi de carreau ;5 de pique ;8 de carreau ;8 de pique ;)
+On enfile :Voici la file :(roi de carreau ;5 de pique ;8 de carreau ;8 de pique ;5 de trefle ;)
+La carte defilee est : roi de carreau ;
+Voici la file :(5 de pique ;8 de carreau ;8 de pique ;5 de trefle ;)
+La carte defilee est : 5 de pique ;
+Voici la file :(8 de carreau ;8 de pique ;5 de trefle ;)
+La carte defilee est : 8 de carreau ;
+Voici la file :(8 de pique ;5 de trefle ;)
+On enfile :Voici la file :(8 de pique ;5 de trefle ;4 de trefle ;)
+La carte defilee est : 8 de pique ;
+Voici la file :(5 de trefle ;4 de trefle ;)
+La carte defilee est : 5 de trefle ;
+Voici la file :(4 de trefle ;)
+On enfile :Voici la file :(4 de trefle ;roi de carreau ;)
+La carte defilee est : 4 de trefle ;
+Voici la file :(roi de carreau ;)
+La carte defilee est : roi de carreau ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(dame de pique ;)
+On enfile :Voici la file :(dame de pique ;3 de carreau ;)
+La carte defilee est : dame de pique ;
+Voici la file :(3 de carreau ;)
+La carte defilee est : 3 de carreau ;
+Voici la file :()
+On enfile :Voici la file :(dame de trefle ;)
+On enfile :Voici la file :(dame de trefle ;3 de carreau ;)
+La carte defilee est : dame de trefle ;
+Voici la file :(3 de carreau ;)
+La carte defilee est : 3 de carreau ;
+Voici la file :()
+On enfile :Voici la file :(dame de coeur ;)
+La carte defilee est : dame de coeur ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(2 de pique ;)
+La carte defilee est : 2 de pique ;
+Voici la file :()
+La file est vide 
+Voici la file :()
+On enfile :Voici la file :(roi de trefle ;)
+On enfile :Voici la file :(roi de trefle ;8 de trefle ;)
+On enfile :Voici la file :(roi de trefle ;8 de trefle ;5 de trefle ;)
+On enfile :Voici la file :(roi de trefle ;8 de trefle ;5 de trefle ;9 de coeur ;)
+La carte defilee est : roi de trefle ;
+Voici la file :(8 de trefle ;5 de trefle ;9 de coeur ;)
+On enfile :Voici la file :(8 de trefle ;5 de trefle ;9 de coeur ;dix de pique ;)

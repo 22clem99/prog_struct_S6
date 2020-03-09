@@ -1,0 +1,20 @@
+Ajout de 80 Nouveau tas : 80 
+---------------
+Ajout de 100 Nouveau tas : 100 80 
+---------------
+Ajout de 90 Nouveau tas : 100 80 90 
+---------------
+Ajout de 40 Nouveau tas : 100 80 90 40 
+---------------
+Ajout de 10 Nouveau tas : 100 80 90 40 10 
+---------------
+Ajout de 30 Nouveau tas : 100 80 90 40 10 30 
+---------------
+Ajout de 160 Nouveau tas : 160 80 100 40 10 30 90 
+---------------
+Ajout de 140 Nouveau tas : 160 140 100 80 10 30 90 40 
+---------------
+Ajout de 70 Nouveau tas : 160 140 100 80 10 30 90 40 70 
+---------------
+Ajout de 20 Nouveau tas : 160 140 100 80 20 30 90 40 70 10 
+---------------

@@ -1,0 +1,49 @@
+
+----------------------------------------------
+Test des copies et concatenations
+----------------------------------------------
+Liste l1: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+-------------------------------
+Liste l2: ( 5 de pique ; 3 de carreau ; as de trefle ; dix de carreau ; )
+-------------------------------
+
+----------------------------------------------
+Copie de l1 dans l4
+l1 et l4 ont des maillons differents
+----------------------------------------------
+Liste l1: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+Liste l4: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+
+Affectation de la liste l1 dans l5
+l1 et l5 partagent les memes maillons
+-------------------------------
+Liste l5: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+Liste l1: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+
+----------------------------------------------
+Concatenation de l2 a la suite de l1 dans l3 
+l3 partage ses maillons avec l1 et l2
+----------------------------------------------
+Liste l1: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; 5 de pique ; 3 de carreau ; as de trefle ; dix de carreau ; )
+Liste l2: ( 5 de pique ; 3 de carreau ; as de trefle ; dix de carreau ; )
+Liste l3: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; 5 de pique ; 3 de carreau ; as de trefle ; dix de carreau ; )
+Liste l4: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; )
+Liste l5: ( 9 de pique ; dame de pique ; 7 de carreau ; 8 de coeur ; valet de coeur ; 5 de pique ; 3 de carreau ; as de trefle ; dix de carreau ; )
+
+----------------------------------------------
+Concatenation d'une liste vide avec une autre liste 
+----------------------------------------------
+Liste l6: ( )
+Liste l2: ( 5 de pique ; 3 de carreau ; as de trefle ; dix de carreau ; )
+Liste l7: ( 5 de pique ; 3 de carreau ; as de trefle ; dix de carreau ; )
+
+----------------------------------------------
+Liberation de toutes les listes
+----------------------------------------------
+Liberation de l1
+Ne pas liberer l2 car l1 est maintenant chainee avec l2 : l3=list_concat(l1,l2)
+Ne pas liberer l3 car elle est deja liberee a travers l1 
+Liberation de l4
+Ne pas liberer l5 car elle est deja liberee a travers l1
+Ne pas liberer l6 car elle est vide
+Ne pas liberer l7 car elle est deja liberee a travers l2

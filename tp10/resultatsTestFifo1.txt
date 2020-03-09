@@ -1,0 +1,85 @@
+-----------------------------------------
+Test de enfiler et defiler 1 cartes
+-----------------------------------------
+On enfile :as de trefle ;
+Voici la file :(as de trefle ;)
+La carte defilee est : as de trefle ;
+Voici la file :()
+-----------------------------------------
+
+-----------------------------------------
+Test de enfiler et defiler 2 cartes
+-----------------------------------------
+On enfile :as de carreau ;
+Voici la file :(as de carreau ;)
+-------------------
+On enfile :as de pique ;
+Voici la file :(as de carreau ;as de pique ;)
+-------------------
+La carte defilee est : as de carreau ;
+Voici la file :(as de pique ;)
+-------------------
+La carte defilee est : as de pique ;
+Voici la file :()
+-------------------
+-----------------------------------------
+
+-----------------------------------------
+Test de enfiler et defiler 3 cartes
+-----------------------------------------
+On enfile :as de trefle ;
+Voici la file :(as de trefle ;)
+-------------------
+On enfile :as de carreau ;
+Voici la file :(as de trefle ;as de carreau ;)
+-------------------
+On enfile :as de pique ;
+Voici la file :(as de trefle ;as de carreau ;as de pique ;)
+-------------------
+La carte defilee est : as de trefle ;
+Voici la file :(as de carreau ;as de pique ;)
+-------------------
+La carte defilee est : as de carreau ;
+Voici la file :(as de pique ;)
+-------------------
+La carte defilee est : as de pique ;
+Voici la file :()
+-----------------------------------------
+
+-----------------------------------------
+Test de enfiler et defiler 3 cartes
+-----------------------------------------
+On enfile :as de trefle ;
+Voici la file :(as de trefle ;)
+-------------------
+On enfile :valet de carreau ;
+Voici la file :(as de trefle ;valet de carreau ;)
+-------------------
+On enfile :5 de pique ;
+Voici la file :(as de trefle ;valet de carreau ;5 de pique ;)
+-------------------
+On enfile :9 de coeur ;
+Voici la file :(as de trefle ;valet de carreau ;5 de pique ;9 de coeur ;)
+-------------------
+La carte defilee est : as de trefle ;
+Voici la file :(valet de carreau ;5 de pique ;9 de coeur ;)
+-------------------
+La carte defilee est : valet de carreau ;
+Voici la file :(5 de pique ;9 de coeur ;)
+-------------------
+La carte defilee est : 5 de pique ;
+Voici la file :(9 de coeur ;)
+-------------------
+La carte defilee est : 9 de coeur ;
+Voici la file :()
+-------------------
+
+-----------------------------------------
+Test de Defiler une file vide
+-----------------------------------------
+La file est vide
+Voici la file :()
+
+-----------------------------------------
+Liberation memoire
+-----------------------------------------

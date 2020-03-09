@@ -1,0 +1,82 @@
+----------------------------------------------
+test de l'ajout en tete d'une carte et de l'affichage
+----------------------------------------------
+Nombre de cartes : 0
+-------------------------------
+Ajout en tete de l'as de coeur
+Liste l1 : ( as de coeur ; )
+Nombre de cartes : 1
+-------------------------------
+Ajout en tete du roi de coeur
+Liste l1 : ( roi de coeur ; as de coeur ; )
+Nombre de cartes : 2
+-------------------------------
+Ajout en tete de l'as de pique
+Liste l1 : ( as de pique ; roi de coeur ; as de coeur ; )
+Nombre de cartes : 3
+-------------------------------
+Ajout en tete du roi de pique
+Liste l1 : ( roi de pique ; as de pique ; roi de coeur ; as de coeur ; )
+Nombre de cartes : 4
+-------------------------------
+Ajout en tete de l'as de pique
+Liste l1 : ( as de pique ; roi de pique ; as de pique ; roi de coeur ; as de coeur ; )
+Nombre de cartes : 5
+
+----------------------------------------------
+Test du nombre de carte donnee dans une liste 
+----------------------------------------------
+Test du nombre d'as de pique 
+-------------------------------
+Nombre de as de pique ;
+dans la liste : ( as de pique ; roi de pique ; as de pique ; roi de coeur ; as de coeur ; )
+La carte est presente 2 fois
+-------------------------------
+Test du nombre de 10 de pique carte
+Nombre de dix de pique ;
+dans la liste : ( as de pique ; roi de pique ; as de pique ; roi de coeur ; as de coeur ; )
+La carte est presente 0 fois
+
+----------------------------------------------
+Nouvelle Liste : test de l'ajout en queue d'une carte 
+----------------------------------------------
+Ajout en queue de l'as de coeur
+Liste l2 : ( as de coeur ; )
+-------------------------------
+Ajout en queue du roi de coeur
+Liste l2 : ( as de coeur ; roi de coeur ; )
+-------------------------------
+Ajout en queue de l'as de pique
+Liste l2 : ( as de coeur ; roi de coeur ; as de pique ; )
+-------------------------------
+Ajout en queue du roi de pique
+Liste l2 : ( as de coeur ; roi de coeur ; as de pique ; roi de pique ; )
+
+----------------------------------------------
+test de la suppression en tete d'une carte 
+----------------------------------------------
+Suppression en tete
+Liste l1 : ( roi de pique ; as de pique ; roi de coeur ; as de coeur ; )
+-------------------------------
+Suppression en tete
+Liste l1 : ( as de pique ; roi de coeur ; as de coeur ; )
+-------------------------------
+Suppression en tete
+Liste l1 : ( roi de coeur ; as de coeur ; )
+-------------------------------
+Suppression en tete
+Liste l1 : ( as de coeur ; )
+-------------------------------
+Suppression en tete
+Liste l1 : ( )
+
+----------------------------------------------
+Liberation de toutes les listes
+----------------------------------------------
+
+----------------------------------------------
+Test de la presence d'une carte dans une liste vide
+----------------------------------------------
+Recherche de dix de pique ;
+dans la liste l1 : ( )
+La carte n'est pas presente

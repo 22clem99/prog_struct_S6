@@ -1,0 +1,304 @@
+--------------------------------------
+On teste XX fois aleatoirement
+Les cartes sont generees aleatoirement et peuvent etre donc tirees plusieurs fois
+--------------------------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :dame de carreau ;
+Voici la pile :( dame de carreau ; )
+--------------------
+On empile :3 de pique ;
+Voici la pile :( 3 de pique ; dame de carreau ; )
+--------------------
+On depile :La carte defilee est : 3 de pique ;
+Voici la pile :( dame de carreau ; )
+--------------------
+On depile :La carte defilee est : dame de carreau ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :dame de trefle ;
+Voici la pile :( dame de trefle ; )
+--------------------
+On depile :La carte defilee est : dame de trefle ;
+Voici la pile :( )
+--------------------
+On empile :2 de pique ;
+Voici la pile :( 2 de pique ; )
+--------------------
+On empile :2 de trefle ;
+Voici la pile :( 2 de trefle ; 2 de pique ; )
+--------------------
+On depile :La carte defilee est : 2 de trefle ;
+Voici la pile :( 2 de pique ; )
+--------------------
+On depile :La carte defilee est : 2 de pique ;
+Voici la pile :( )
+--------------------
+On empile :valet de trefle ;
+Voici la pile :( valet de trefle ; )
+--------------------
+On depile :La carte defilee est : valet de trefle ;
+Voici la pile :( )
+--------------------
+On empile :2 de carreau ;
+Voici la pile :( 2 de carreau ; )
+--------------------
+On depile :La carte defilee est : 2 de carreau ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :dix de carreau ;
+Voici la pile :( dix de carreau ; )
+--------------------
+On depile :La carte defilee est : dix de carreau ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :dix de trefle ;
+Voici la pile :( dix de trefle ; )
+--------------------
+On depile :La carte defilee est : dix de trefle ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :5 de trefle ;
+Voici la pile :( 5 de trefle ; )
+--------------------
+On depile :La carte defilee est : 5 de trefle ;
+Voici la pile :( )
+--------------------
+On empile :2 de pique ;
+Voici la pile :( 2 de pique ; )
+--------------------
+On depile :La carte defilee est : 2 de pique ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :5 de trefle ;
+Voici la pile :( 5 de trefle ; )
+--------------------
+On empile :4 de pique ;
+Voici la pile :( 4 de pique ; 5 de trefle ; )
+--------------------
+On empile :as de trefle ;
+Voici la pile :( as de trefle ; 4 de pique ; 5 de trefle ; )
+--------------------
+On depile :La carte defilee est : as de trefle ;
+Voici la pile :( 4 de pique ; 5 de trefle ; )
+--------------------
+On depile :La carte defilee est : 4 de pique ;
+Voici la pile :( 5 de trefle ; )
+--------------------
+On depile :La carte defilee est : 5 de trefle ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :9 de trefle ;
+Voici la pile :( 9 de trefle ; )
+--------------------
+On depile :La carte defilee est : 9 de trefle ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :5 de carreau ;
+Voici la pile :( 5 de carreau ; )
+--------------------
+On empile :3 de pique ;
+Voici la pile :( 3 de pique ; 5 de carreau ; )
+--------------------
+On empile :7 de trefle ;
+Voici la pile :( 7 de trefle ; 3 de pique ; 5 de carreau ; )
+--------------------
+On depile :La carte defilee est : 7 de trefle ;
+Voici la pile :( 3 de pique ; 5 de carreau ; )
+--------------------
+On empile :2 de carreau ;
+Voici la pile :( 2 de carreau ; 3 de pique ; 5 de carreau ; )
+--------------------
+On depile :La carte defilee est : 2 de carreau ;
+Voici la pile :( 3 de pique ; 5 de carreau ; )
+--------------------
+On depile :La carte defilee est : 3 de pique ;
+Voici la pile :( 5 de carreau ; )
+--------------------
+On depile :La carte defilee est : 5 de carreau ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :valet de pique ;
+Voici la pile :( valet de pique ; )
+--------------------
+On empile :7 de trefle ;
+Voici la pile :( 7 de trefle ; valet de pique ; )
+--------------------
+On empile :as de carreau ;
+Voici la pile :( as de carreau ; 7 de trefle ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : as de carreau ;
+Voici la pile :( 7 de trefle ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : 7 de trefle ;
+Voici la pile :( valet de pique ; )
+--------------------
+On empile :roi de carreau ;
+Voici la pile :( roi de carreau ; valet de pique ; )
+--------------------
+On empile :5 de pique ;
+Voici la pile :( 5 de pique ; roi de carreau ; valet de pique ; )
+--------------------
+On empile :8 de carreau ;
+Voici la pile :( 8 de carreau ; 5 de pique ; roi de carreau ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : 8 de carreau ;
+Voici la pile :( 5 de pique ; roi de carreau ; valet de pique ; )
+--------------------
+On empile :8 de pique ;
+Voici la pile :( 8 de pique ; 5 de pique ; roi de carreau ; valet de pique ; )
+--------------------
+On empile :5 de trefle ;
+Voici la pile :( 5 de trefle ; 8 de pique ; 5 de pique ; roi de carreau ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : 5 de trefle ;
+Voici la pile :( 8 de pique ; 5 de pique ; roi de carreau ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : 8 de pique ;
+Voici la pile :( 5 de pique ; roi de carreau ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : 5 de pique ;
+Voici la pile :( roi de carreau ; valet de pique ; )
+--------------------
+On empile :4 de trefle ;
+Voici la pile :( 4 de trefle ; roi de carreau ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : 4 de trefle ;
+Voici la pile :( roi de carreau ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : roi de carreau ;
+Voici la pile :( valet de pique ; )
+--------------------
+On empile :roi de carreau ;
+Voici la pile :( roi de carreau ; valet de pique ; )
+--------------------
+On depile :La carte defilee est : roi de carreau ;
+Voici la pile :( valet de pique ; )
+--------------------
+On depile :La carte defilee est : valet de pique ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :dame de pique ;
+Voici la pile :( dame de pique ; )
+--------------------
+On empile :3 de carreau ;
+Voici la pile :( 3 de carreau ; dame de pique ; )
+--------------------
+On depile :La carte defilee est : 3 de carreau ;
+Voici la pile :( dame de pique ; )
+--------------------
+On depile :La carte defilee est : dame de pique ;
+Voici la pile :( )
+--------------------
+On empile :dame de trefle ;
+Voici la pile :( dame de trefle ; )
+--------------------
+On empile :3 de carreau ;
+Voici la pile :( 3 de carreau ; dame de trefle ; )
+--------------------
+On depile :La carte defilee est : 3 de carreau ;
+Voici la pile :( dame de trefle ; )
+--------------------
+On depile :La carte defilee est : dame de trefle ;
+Voici la pile :( )
+--------------------
+On empile :dame de coeur ;
+Voici la pile :( dame de coeur ; )
+--------------------
+On depile :La carte defilee est : dame de coeur ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :2 de pique ;
+Voici la pile :( 2 de pique ; )
+--------------------
+On depile :La carte defilee est : 2 de pique ;
+Voici la pile :( )
+--------------------
+On depile :La pile est vide 
+Voici la pile :( )
+--------------------
+On empile :roi de trefle ;
+Voici la pile :( roi de trefle ; )
+--------------------
+On empile :8 de trefle ;
+Voici la pile :( 8 de trefle ; roi de trefle ; )
+--------------------
+On empile :5 de trefle ;
+Voici la pile :( 5 de trefle ; 8 de trefle ; roi de trefle ; )
+--------------------
+On empile :9 de coeur ;
+Voici la pile :( 9 de coeur ; 5 de trefle ; 8 de trefle ; roi de trefle ; )
+--------------------
+On depile :La carte defilee est : 9 de coeur ;
+Voici la pile :( 5 de trefle ; 8 de trefle ; roi de trefle ; )
+--------------------
+On empile :dix de pique ;
+Voici la pile :( dix de pique ; 5 de trefle ; 8 de trefle ; roi de trefle ; )
+--------------------

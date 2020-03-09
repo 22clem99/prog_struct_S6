@@ -1,0 +1,63 @@
+-----------------------------------------
+Test de empiler et depiler une carte
+-----------------------------------------
+On enpile :as de trefle ;
+La pile est : ( as de trefle ; )
+On depile
+La carte depilee est : as de trefle ;
+La pile est : ( )
+-----------------------------------------
+
+-----------------------------------------
+Test de empiler et depiler 2 cartes
+-----------------------------------------
+On enpile :as de carreau ;
+( as de carreau ; )
+--------------------
+On enpile :as de pique ;
+( as de pique ; as de carreau ; )
+--------------------
+On depile
+La carte depilee est : as de pique ;
+La pile est : ( as de carreau ; )
+--------------------
+On depile
+La carte depilee est : as de carreau ;
+La pile est : ( )
+-----------------------------------------
+
+-----------------------------------------
+Test de empiler 3 cartes, depiler une carte, empiler 2 cartes, depiler 1 carte, empiler 1 carte
+-----------------------------------------
+On enpile :as de trefle ;
+La pile est : ( as de trefle ; )
+--------------------
+On enpile :as de carreau ;
+La pile est : ( as de carreau ; as de trefle ; )
+--------------------
+On enpile :as de pique ;
+La pile est : ( as de pique ; as de carreau ; as de trefle ; )
+--------------------
+On depile
+La carte depilee est : as de pique ;
+La pile est : ( as de carreau ; as de trefle ; )
+--------------------
+On enpile :as de pique ;
+La pile est : ( as de pique ; as de carreau ; as de trefle ; )
+--------------------
+On enpile :9 de coeur ;
+La pile est : ( 9 de coeur ; as de pique ; as de carreau ; as de trefle ; )
+--------------------
+On depile
+La carte depilee est : 9 de coeur ;
+La pile est : ( as de pique ; as de carreau ; as de trefle ; )
+--------------------
+On enpile :9 de coeur ;
+La pile est : ( 9 de coeur ; as de pique ; as de carreau ; as de trefle ; )
+-----------------------------------------
+
+-----------------------------------------
+Test de la liberation complete de la pile
+-----------------------------------------
+-----------------------------------------
+La pile est : ( )
