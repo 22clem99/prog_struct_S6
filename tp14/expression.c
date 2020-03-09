@@ -121,14 +121,14 @@ void expression_print_infixe(expression_t r)
     break;
 
   case VALEUR:
-
+    element_print(r->value);
     break;
   case VARIABLE:
-
+    element_print(r->value);
     break;
   
   default:
-
+  printf("erreur")
     break;
   }
  
